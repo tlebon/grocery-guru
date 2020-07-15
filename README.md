@@ -1,4 +1,13 @@
-# Graphile Starter
+# Grocery Guru
+
+## An app for Scanning your receipts, tracking your purchases, finding out what is on sale now or cheaper nearby
+
+A fully featured readme will appear here when the code necessitates one. Until
+then...
+
+## Based on:
+
+## Graphile Starter
 
 ## Take it for a spin!
 
